@@ -21,9 +21,8 @@ Index.html 을 수정 기능 추가
 -----
 
   
-<pre><code>
 ```html
-... shapespark 부분 하단 
+  shapespark 부분 하단 
 
 <link rel="preload" href="./font/koreaM.woff2" as="font" type="font/woff2" crossorigin="anonymous">  
 <link rel="preload" href="./font/koreaB.woff2" as="font" type="font/woff2" crossorigin="anonymous">  
@@ -41,7 +40,6 @@ Index.html 을 수정 기능 추가
 </body>
 </html>
 ```
-</code></pre>
 
 소스및 파일 설명 
 
